@@ -1,0 +1,5 @@
+Product Report
+ID, Name, Quantity, Price, Supplier
+1, product A, 30, 80.0, A
+2, Product B, 50, 80.0, B
+3, product C, 60, 70.0, C
